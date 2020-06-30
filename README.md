@@ -8,7 +8,7 @@
 
 ##### Add DLL's
 
-![alt tag](https://github.com/lastingyeh/sap-issues/blob/master/Sap-proj-issues.png)
+![alt tag](https://github.com/lastingyeh/sap-issues/blob/master/Issue-images/Sap-proj-issues.png)
 
 ##### Output issues
 
